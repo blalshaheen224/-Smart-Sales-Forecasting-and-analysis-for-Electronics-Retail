@@ -127,5 +127,5 @@ python your_script.py
 
 ## 👤 Author
 
-Developed by [Your Name].  
+Developed by blal shaheen.  
 This is a personal project to practice machine learning on retail data.
