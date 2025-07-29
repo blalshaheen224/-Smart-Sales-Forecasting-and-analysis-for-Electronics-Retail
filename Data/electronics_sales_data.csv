@@ -1,0 +1,1049 @@
+Product_ID,Product_Name,Category,Price,Units_Sold,Date,Branch
+1001,iPhone 13,Mobile,25000,16,2023-01-01,Alexandria
+1002,Dell XPS 15,Laptop,35000,17,2023-01-01,Cairo
+1003,Samsung A52,Mobile,15000,27,2023-01-01,Cairo
+1004,Lenovo Legion 5,Laptop,30000,19,2023-01-01,Alexandria
+1005,iPad Air,Tablet,18000,17,2023-01-01,Giza
+1006,HP Pavilion,Laptop,22000,23,2023-01-01,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,20,2023-01-01,Giza
+1008,Microsoft Surface,Tablet,28000,25,2023-01-01,Giza
+1001,iPhone 13,Mobile,25000,19,2023-01-08,Giza
+1002,Dell XPS 15,Laptop,35000,7,2023-01-08,Giza
+1003,Samsung A52,Mobile,15000,26,2023-01-08,Cairo
+1004,Lenovo Legion 5,Laptop,30000,25,2023-01-08,Cairo
+1005,iPad Air,Tablet,18000,3,2023-01-08,Alexandria
+1006,HP Pavilion,Laptop,22000,22,2023-01-08,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,14,2023-01-08,Giza
+1008,Microsoft Surface,Tablet,28000,21,2023-01-08,Cairo
+1001,iPhone 13,Mobile,25000,24,2023-01-15,Alexandria
+1002,Dell XPS 15,Laptop,35000,20,2023-01-15,Giza
+1003,Samsung A52,Mobile,15000,9,2023-01-15,Cairo
+1004,Lenovo Legion 5,Laptop,30000,0,2023-01-15,Giza
+1005,iPad Air,Tablet,18000,5,2023-01-15,Cairo
+1006,HP Pavilion,Laptop,22000,28,2023-01-15,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,13,2023-01-15,Giza
+1008,Microsoft Surface,Tablet,28000,0,2023-01-15,Cairo
+1001,iPhone 13,Mobile,25000,10,2023-01-22,Cairo
+1002,Dell XPS 15,Laptop,35000,10,2023-01-22,Cairo
+1003,Samsung A52,Mobile,15000,29,2023-01-22,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,17,2023-01-22,Alexandria
+1005,iPad Air,Tablet,18000,9,2023-01-22,Cairo
+1006,HP Pavilion,Laptop,22000,0,2023-01-22,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,20,2023-01-22,Alexandria
+1008,Microsoft Surface,Tablet,28000,10,2023-01-22,Giza
+1001,iPhone 13,Mobile,25000,26,2023-01-29,Giza
+1002,Dell XPS 15,Laptop,35000,27,2023-01-29,Alexandria
+1003,Samsung A52,Mobile,15000,5,2023-01-29,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,21,2023-01-29,Cairo
+1005,iPad Air,Tablet,18000,15,2023-01-29,Cairo
+1006,HP Pavilion,Laptop,22000,15,2023-01-29,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,30,2023-01-29,Cairo
+1008,Microsoft Surface,Tablet,28000,9,2023-01-29,Alexandria
+1001,iPhone 13,Mobile,25000,28,2023-02-05,Giza
+1002,Dell XPS 15,Laptop,35000,4,2023-02-05,Cairo
+1003,Samsung A52,Mobile,15000,12,2023-02-05,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,8,2023-02-05,Alexandria
+1005,iPad Air,Tablet,18000,28,2023-02-05,Alexandria
+1006,HP Pavilion,Laptop,22000,2,2023-02-05,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,18,2023-02-05,Cairo
+1008,Microsoft Surface,Tablet,28000,7,2023-02-05,Cairo
+1001,iPhone 13,Mobile,25000,29,2023-02-12,Cairo
+1002,Dell XPS 15,Laptop,35000,16,2023-02-12,Alexandria
+1003,Samsung A52,Mobile,15000,13,2023-02-12,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,27,2023-02-12,Giza
+1005,iPad Air,Tablet,18000,20,2023-02-12,Giza
+1006,HP Pavilion,Laptop,22000,11,2023-02-12,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,2,2023-02-12,Alexandria
+1008,Microsoft Surface,Tablet,28000,2,2023-02-12,Cairo
+1001,iPhone 13,Mobile,25000,7,2023-02-19,Giza
+1002,Dell XPS 15,Laptop,35000,15,2023-02-19,Giza
+1003,Samsung A52,Mobile,15000,23,2023-02-19,Cairo
+1004,Lenovo Legion 5,Laptop,30000,23,2023-02-19,Cairo
+1005,iPad Air,Tablet,18000,10,2023-02-19,Alexandria
+1006,HP Pavilion,Laptop,22000,1,2023-02-19,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,2,2023-02-19,Cairo
+1008,Microsoft Surface,Tablet,28000,18,2023-02-19,Alexandria
+1001,iPhone 13,Mobile,25000,29,2023-02-26,Alexandria
+1002,Dell XPS 15,Laptop,35000,17,2023-02-26,Alexandria
+1003,Samsung A52,Mobile,15000,8,2023-02-26,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,18,2023-02-26,Alexandria
+1005,iPad Air,Tablet,18000,5,2023-02-26,Alexandria
+1006,HP Pavilion,Laptop,22000,19,2023-02-26,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,19,2023-02-26,Giza
+1008,Microsoft Surface,Tablet,28000,6,2023-02-26,Cairo
+1001,iPhone 13,Mobile,25000,28,2023-03-05,Cairo
+1002,Dell XPS 15,Laptop,35000,12,2023-03-05,Cairo
+1003,Samsung A52,Mobile,15000,6,2023-03-05,Cairo
+1004,Lenovo Legion 5,Laptop,30000,26,2023-03-05,Alexandria
+1005,iPad Air,Tablet,18000,4,2023-03-05,Alexandria
+1006,HP Pavilion,Laptop,22000,7,2023-03-05,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,3,2023-03-05,Giza
+1008,Microsoft Surface,Tablet,28000,3,2023-03-05,Giza
+1001,iPhone 13,Mobile,25000,18,2023-03-12,Giza
+1002,Dell XPS 15,Laptop,35000,4,2023-03-12,Cairo
+1003,Samsung A52,Mobile,15000,3,2023-03-12,Giza
+1004,Lenovo Legion 5,Laptop,30000,30,2023-03-12,Cairo
+1005,iPad Air,Tablet,18000,7,2023-03-12,Alexandria
+1006,HP Pavilion,Laptop,22000,6,2023-03-12,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,8,2023-03-12,Cairo
+1008,Microsoft Surface,Tablet,28000,1,2023-03-12,Alexandria
+1001,iPhone 13,Mobile,25000,24,2023-03-19,Giza
+1002,Dell XPS 15,Laptop,35000,2,2023-03-19,Giza
+1003,Samsung A52,Mobile,15000,12,2023-03-19,Giza
+1004,Lenovo Legion 5,Laptop,30000,30,2023-03-19,Giza
+1005,iPad Air,Tablet,18000,26,2023-03-19,Alexandria
+1006,HP Pavilion,Laptop,22000,27,2023-03-19,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,3,2023-03-19,Giza
+1008,Microsoft Surface,Tablet,28000,26,2023-03-19,Giza
+1001,iPhone 13,Mobile,25000,14,2023-03-26,Giza
+1002,Dell XPS 15,Laptop,35000,22,2023-03-26,Cairo
+1003,Samsung A52,Mobile,15000,0,2023-03-26,Giza
+1004,Lenovo Legion 5,Laptop,30000,28,2023-03-26,Cairo
+1005,iPad Air,Tablet,18000,23,2023-03-26,Cairo
+1006,HP Pavilion,Laptop,22000,21,2023-03-26,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,1,2023-03-26,Alexandria
+1008,Microsoft Surface,Tablet,28000,20,2023-03-26,Alexandria
+1001,iPhone 13,Mobile,25000,1,2023-04-02,Alexandria
+1002,Dell XPS 15,Laptop,35000,5,2023-04-02,Alexandria
+1003,Samsung A52,Mobile,15000,9,2023-04-02,Cairo
+1004,Lenovo Legion 5,Laptop,30000,23,2023-04-02,Giza
+1005,iPad Air,Tablet,18000,2,2023-04-02,Giza
+1006,HP Pavilion,Laptop,22000,0,2023-04-02,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,27,2023-04-02,Alexandria
+1008,Microsoft Surface,Tablet,28000,24,2023-04-02,Alexandria
+1001,iPhone 13,Mobile,25000,15,2023-04-09,Giza
+1002,Dell XPS 15,Laptop,35000,20,2023-04-09,Alexandria
+1003,Samsung A52,Mobile,15000,23,2023-04-09,Giza
+1004,Lenovo Legion 5,Laptop,30000,3,2023-04-09,Cairo
+1005,iPad Air,Tablet,18000,14,2023-04-09,Cairo
+1006,HP Pavilion,Laptop,22000,5,2023-04-09,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,8,2023-04-09,Alexandria
+1008,Microsoft Surface,Tablet,28000,20,2023-04-09,Cairo
+1001,iPhone 13,Mobile,25000,1,2023-04-16,Giza
+1002,Dell XPS 15,Laptop,35000,1,2023-04-16,Alexandria
+1003,Samsung A52,Mobile,15000,2,2023-04-16,Giza
+1004,Lenovo Legion 5,Laptop,30000,18,2023-04-16,Alexandria
+1005,iPad Air,Tablet,18000,23,2023-04-16,Cairo
+1006,HP Pavilion,Laptop,22000,13,2023-04-16,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,23,2023-04-16,Alexandria
+1008,Microsoft Surface,Tablet,28000,11,2023-04-16,Alexandria
+1001,iPhone 13,Mobile,25000,13,2023-04-23,Alexandria
+1002,Dell XPS 15,Laptop,35000,1,2023-04-23,Giza
+1003,Samsung A52,Mobile,15000,0,2023-04-23,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,11,2023-04-23,Giza
+1005,iPad Air,Tablet,18000,4,2023-04-23,Alexandria
+1006,HP Pavilion,Laptop,22000,25,2023-04-23,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,12,2023-04-23,Alexandria
+1008,Microsoft Surface,Tablet,28000,27,2023-04-23,Alexandria
+1001,iPhone 13,Mobile,25000,4,2023-04-30,Giza
+1002,Dell XPS 15,Laptop,35000,4,2023-04-30,Alexandria
+1003,Samsung A52,Mobile,15000,5,2023-04-30,Cairo
+1004,Lenovo Legion 5,Laptop,30000,10,2023-04-30,Alexandria
+1005,iPad Air,Tablet,18000,21,2023-04-30,Alexandria
+1006,HP Pavilion,Laptop,22000,23,2023-04-30,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,10,2023-04-30,Cairo
+1008,Microsoft Surface,Tablet,28000,10,2023-04-30,Alexandria
+1001,iPhone 13,Mobile,25000,28,2023-05-07,Giza
+1002,Dell XPS 15,Laptop,35000,16,2023-05-07,Alexandria
+1003,Samsung A52,Mobile,15000,24,2023-05-07,Giza
+1004,Lenovo Legion 5,Laptop,30000,25,2023-05-07,Giza
+1005,iPad Air,Tablet,18000,19,2023-05-07,Alexandria
+1006,HP Pavilion,Laptop,22000,17,2023-05-07,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,15,2023-05-07,Giza
+1008,Microsoft Surface,Tablet,28000,7,2023-05-07,Giza
+1001,iPhone 13,Mobile,25000,5,2023-05-14,Cairo
+1002,Dell XPS 15,Laptop,35000,19,2023-05-14,Cairo
+1003,Samsung A52,Mobile,15000,22,2023-05-14,Giza
+1004,Lenovo Legion 5,Laptop,30000,9,2023-05-14,Cairo
+1005,iPad Air,Tablet,18000,16,2023-05-14,Cairo
+1006,HP Pavilion,Laptop,22000,29,2023-05-14,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,7,2023-05-14,Giza
+1008,Microsoft Surface,Tablet,28000,16,2023-05-14,Cairo
+1001,iPhone 13,Mobile,25000,28,2023-05-21,Alexandria
+1002,Dell XPS 15,Laptop,35000,30,2023-05-21,Alexandria
+1003,Samsung A52,Mobile,15000,15,2023-05-21,Cairo
+1004,Lenovo Legion 5,Laptop,30000,27,2023-05-21,Cairo
+1005,iPad Air,Tablet,18000,21,2023-05-21,Giza
+1006,HP Pavilion,Laptop,22000,9,2023-05-21,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,15,2023-05-21,Cairo
+1008,Microsoft Surface,Tablet,28000,24,2023-05-21,Giza
+1001,iPhone 13,Mobile,25000,23,2023-05-28,Giza
+1002,Dell XPS 15,Laptop,35000,17,2023-05-28,Alexandria
+1003,Samsung A52,Mobile,15000,19,2023-05-28,Cairo
+1004,Lenovo Legion 5,Laptop,30000,10,2023-05-28,Cairo
+1005,iPad Air,Tablet,18000,27,2023-05-28,Cairo
+1006,HP Pavilion,Laptop,22000,29,2023-05-28,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,27,2023-05-28,Alexandria
+1008,Microsoft Surface,Tablet,28000,29,2023-05-28,Giza
+1001,iPhone 13,Mobile,25000,10,2023-06-04,Giza
+1002,Dell XPS 15,Laptop,35000,11,2023-06-04,Alexandria
+1003,Samsung A52,Mobile,15000,0,2023-06-04,Cairo
+1004,Lenovo Legion 5,Laptop,30000,26,2023-06-04,Cairo
+1005,iPad Air,Tablet,18000,9,2023-06-04,Alexandria
+1006,HP Pavilion,Laptop,22000,18,2023-06-04,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2023-06-04,Alexandria
+1008,Microsoft Surface,Tablet,28000,2,2023-06-04,Cairo
+1001,iPhone 13,Mobile,25000,10,2023-06-11,Alexandria
+1002,Dell XPS 15,Laptop,35000,5,2023-06-11,Cairo
+1003,Samsung A52,Mobile,15000,16,2023-06-11,Cairo
+1004,Lenovo Legion 5,Laptop,30000,12,2023-06-11,Alexandria
+1005,iPad Air,Tablet,18000,3,2023-06-11,Giza
+1006,HP Pavilion,Laptop,22000,22,2023-06-11,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,8,2023-06-11,Cairo
+1008,Microsoft Surface,Tablet,28000,0,2023-06-11,Cairo
+1001,iPhone 13,Mobile,25000,5,2023-06-18,Alexandria
+1002,Dell XPS 15,Laptop,35000,4,2023-06-18,Giza
+1003,Samsung A52,Mobile,15000,25,2023-06-18,Giza
+1004,Lenovo Legion 5,Laptop,30000,11,2023-06-18,Giza
+1005,iPad Air,Tablet,18000,24,2023-06-18,Cairo
+1006,HP Pavilion,Laptop,22000,3,2023-06-18,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,27,2023-06-18,Giza
+1008,Microsoft Surface,Tablet,28000,30,2023-06-18,Cairo
+1001,iPhone 13,Mobile,25000,16,2023-06-25,Giza
+1002,Dell XPS 15,Laptop,35000,10,2023-06-25,Alexandria
+1003,Samsung A52,Mobile,15000,2,2023-06-25,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,3,2023-06-25,Alexandria
+1005,iPad Air,Tablet,18000,30,2023-06-25,Giza
+1006,HP Pavilion,Laptop,22000,5,2023-06-25,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,8,2023-06-25,Giza
+1008,Microsoft Surface,Tablet,28000,30,2023-06-25,Alexandria
+1001,iPhone 13,Mobile,25000,16,2023-07-02,Cairo
+1002,Dell XPS 15,Laptop,35000,15,2023-07-02,Giza
+1003,Samsung A52,Mobile,15000,4,2023-07-02,Giza
+1004,Lenovo Legion 5,Laptop,30000,7,2023-07-02,Cairo
+1005,iPad Air,Tablet,18000,8,2023-07-02,Giza
+1006,HP Pavilion,Laptop,22000,15,2023-07-02,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,5,2023-07-02,Cairo
+1008,Microsoft Surface,Tablet,28000,9,2023-07-02,Alexandria
+1001,iPhone 13,Mobile,25000,10,2023-07-09,Giza
+1002,Dell XPS 15,Laptop,35000,18,2023-07-09,Giza
+1003,Samsung A52,Mobile,15000,28,2023-07-09,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,18,2023-07-09,Alexandria
+1005,iPad Air,Tablet,18000,12,2023-07-09,Giza
+1006,HP Pavilion,Laptop,22000,6,2023-07-09,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,23,2023-07-09,Alexandria
+1008,Microsoft Surface,Tablet,28000,25,2023-07-09,Giza
+1001,iPhone 13,Mobile,25000,16,2023-07-16,Alexandria
+1002,Dell XPS 15,Laptop,35000,19,2023-07-16,Giza
+1003,Samsung A52,Mobile,15000,19,2023-07-16,Cairo
+1004,Lenovo Legion 5,Laptop,30000,8,2023-07-16,Giza
+1005,iPad Air,Tablet,18000,14,2023-07-16,Cairo
+1006,HP Pavilion,Laptop,22000,10,2023-07-16,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,1,2023-07-16,Cairo
+1008,Microsoft Surface,Tablet,28000,24,2023-07-16,Cairo
+1001,iPhone 13,Mobile,25000,9,2023-07-23,Cairo
+1002,Dell XPS 15,Laptop,35000,29,2023-07-23,Cairo
+1003,Samsung A52,Mobile,15000,23,2023-07-23,Giza
+1004,Lenovo Legion 5,Laptop,30000,21,2023-07-23,Cairo
+1005,iPad Air,Tablet,18000,12,2023-07-23,Cairo
+1006,HP Pavilion,Laptop,22000,1,2023-07-23,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,26,2023-07-23,Giza
+1008,Microsoft Surface,Tablet,28000,7,2023-07-23,Giza
+1001,iPhone 13,Mobile,25000,4,2023-07-30,Cairo
+1002,Dell XPS 15,Laptop,35000,10,2023-07-30,Alexandria
+1003,Samsung A52,Mobile,15000,17,2023-07-30,Giza
+1004,Lenovo Legion 5,Laptop,30000,27,2023-07-30,Cairo
+1005,iPad Air,Tablet,18000,25,2023-07-30,Giza
+1006,HP Pavilion,Laptop,22000,7,2023-07-30,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,27,2023-07-30,Cairo
+1008,Microsoft Surface,Tablet,28000,6,2023-07-30,Giza
+1001,iPhone 13,Mobile,25000,5,2023-08-06,Cairo
+1002,Dell XPS 15,Laptop,35000,11,2023-08-06,Cairo
+1003,Samsung A52,Mobile,15000,27,2023-08-06,Giza
+1004,Lenovo Legion 5,Laptop,30000,8,2023-08-06,Cairo
+1005,iPad Air,Tablet,18000,24,2023-08-06,Alexandria
+1006,HP Pavilion,Laptop,22000,16,2023-08-06,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,9,2023-08-06,Cairo
+1008,Microsoft Surface,Tablet,28000,3,2023-08-06,Alexandria
+1001,iPhone 13,Mobile,25000,21,2023-08-13,Cairo
+1002,Dell XPS 15,Laptop,35000,29,2023-08-13,Giza
+1003,Samsung A52,Mobile,15000,20,2023-08-13,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,4,2023-08-13,Cairo
+1005,iPad Air,Tablet,18000,18,2023-08-13,Alexandria
+1006,HP Pavilion,Laptop,22000,19,2023-08-13,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,12,2023-08-13,Cairo
+1008,Microsoft Surface,Tablet,28000,0,2023-08-13,Cairo
+1001,iPhone 13,Mobile,25000,2,2023-08-20,Giza
+1002,Dell XPS 15,Laptop,35000,2,2023-08-20,Alexandria
+1003,Samsung A52,Mobile,15000,10,2023-08-20,Cairo
+1004,Lenovo Legion 5,Laptop,30000,13,2023-08-20,Alexandria
+1005,iPad Air,Tablet,18000,5,2023-08-20,Cairo
+1006,HP Pavilion,Laptop,22000,5,2023-08-20,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,3,2023-08-20,Cairo
+1008,Microsoft Surface,Tablet,28000,12,2023-08-20,Giza
+1001,iPhone 13,Mobile,25000,6,2023-08-27,Alexandria
+1002,Dell XPS 15,Laptop,35000,29,2023-08-27,Cairo
+1003,Samsung A52,Mobile,15000,14,2023-08-27,Giza
+1004,Lenovo Legion 5,Laptop,30000,27,2023-08-27,Cairo
+1005,iPad Air,Tablet,18000,28,2023-08-27,Alexandria
+1006,HP Pavilion,Laptop,22000,23,2023-08-27,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,25,2023-08-27,Cairo
+1008,Microsoft Surface,Tablet,28000,17,2023-08-27,Giza
+1001,iPhone 13,Mobile,25000,17,2023-09-03,Alexandria
+1002,Dell XPS 15,Laptop,35000,18,2023-09-03,Giza
+1003,Samsung A52,Mobile,15000,19,2023-09-03,Giza
+1004,Lenovo Legion 5,Laptop,30000,24,2023-09-03,Giza
+1005,iPad Air,Tablet,18000,1,2023-09-03,Alexandria
+1006,HP Pavilion,Laptop,22000,10,2023-09-03,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,10,2023-09-03,Alexandria
+1008,Microsoft Surface,Tablet,28000,9,2023-09-03,Alexandria
+1001,iPhone 13,Mobile,25000,24,2023-09-10,Giza
+1002,Dell XPS 15,Laptop,35000,17,2023-09-10,Cairo
+1003,Samsung A52,Mobile,15000,12,2023-09-10,Giza
+1004,Lenovo Legion 5,Laptop,30000,16,2023-09-10,Giza
+1005,iPad Air,Tablet,18000,13,2023-09-10,Alexandria
+1006,HP Pavilion,Laptop,22000,7,2023-09-10,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,5,2023-09-10,Giza
+1008,Microsoft Surface,Tablet,28000,23,2023-09-10,Giza
+1001,iPhone 13,Mobile,25000,18,2023-09-17,Alexandria
+1002,Dell XPS 15,Laptop,35000,1,2023-09-17,Cairo
+1003,Samsung A52,Mobile,15000,14,2023-09-17,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,6,2023-09-17,Giza
+1005,iPad Air,Tablet,18000,7,2023-09-17,Alexandria
+1006,HP Pavilion,Laptop,22000,2,2023-09-17,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,15,2023-09-17,Giza
+1008,Microsoft Surface,Tablet,28000,0,2023-09-17,Giza
+1001,iPhone 13,Mobile,25000,20,2023-09-24,Giza
+1002,Dell XPS 15,Laptop,35000,8,2023-09-24,Giza
+1003,Samsung A52,Mobile,15000,2,2023-09-24,Cairo
+1004,Lenovo Legion 5,Laptop,30000,21,2023-09-24,Giza
+1005,iPad Air,Tablet,18000,30,2023-09-24,Alexandria
+1006,HP Pavilion,Laptop,22000,16,2023-09-24,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,13,2023-09-24,Giza
+1008,Microsoft Surface,Tablet,28000,23,2023-09-24,Giza
+1001,iPhone 13,Mobile,25000,13,2023-10-01,Giza
+1002,Dell XPS 15,Laptop,35000,5,2023-10-01,Giza
+1003,Samsung A52,Mobile,15000,14,2023-10-01,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,11,2023-10-01,Cairo
+1005,iPad Air,Tablet,18000,18,2023-10-01,Giza
+1006,HP Pavilion,Laptop,22000,15,2023-10-01,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,18,2023-10-01,Alexandria
+1008,Microsoft Surface,Tablet,28000,4,2023-10-01,Giza
+1001,iPhone 13,Mobile,25000,8,2023-10-08,Alexandria
+1002,Dell XPS 15,Laptop,35000,24,2023-10-08,Cairo
+1003,Samsung A52,Mobile,15000,12,2023-10-08,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,17,2023-10-08,Cairo
+1005,iPad Air,Tablet,18000,23,2023-10-08,Cairo
+1006,HP Pavilion,Laptop,22000,8,2023-10-08,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,5,2023-10-08,Alexandria
+1008,Microsoft Surface,Tablet,28000,16,2023-10-08,Cairo
+1001,iPhone 13,Mobile,25000,3,2023-10-15,Giza
+1002,Dell XPS 15,Laptop,35000,4,2023-10-15,Giza
+1003,Samsung A52,Mobile,15000,12,2023-10-15,Cairo
+1004,Lenovo Legion 5,Laptop,30000,15,2023-10-15,Giza
+1005,iPad Air,Tablet,18000,16,2023-10-15,Alexandria
+1006,HP Pavilion,Laptop,22000,28,2023-10-15,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,0,2023-10-15,Giza
+1008,Microsoft Surface,Tablet,28000,24,2023-10-15,Cairo
+1001,iPhone 13,Mobile,25000,22,2023-10-22,Cairo
+1002,Dell XPS 15,Laptop,35000,4,2023-10-22,Cairo
+1003,Samsung A52,Mobile,15000,17,2023-10-22,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,14,2023-10-22,Giza
+1005,iPad Air,Tablet,18000,10,2023-10-22,Alexandria
+1006,HP Pavilion,Laptop,22000,20,2023-10-22,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,20,2023-10-22,Cairo
+1008,Microsoft Surface,Tablet,28000,27,2023-10-22,Alexandria
+1001,iPhone 13,Mobile,25000,12,2023-10-29,Giza
+1002,Dell XPS 15,Laptop,35000,27,2023-10-29,Alexandria
+1003,Samsung A52,Mobile,15000,5,2023-10-29,Giza
+1004,Lenovo Legion 5,Laptop,30000,7,2023-10-29,Cairo
+1005,iPad Air,Tablet,18000,28,2023-10-29,Alexandria
+1006,HP Pavilion,Laptop,22000,13,2023-10-29,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,9,2023-10-29,Giza
+1008,Microsoft Surface,Tablet,28000,10,2023-10-29,Giza
+1001,iPhone 13,Mobile,25000,6,2023-11-05,Cairo
+1002,Dell XPS 15,Laptop,35000,18,2023-11-05,Alexandria
+1003,Samsung A52,Mobile,15000,4,2023-11-05,Giza
+1004,Lenovo Legion 5,Laptop,30000,6,2023-11-05,Cairo
+1005,iPad Air,Tablet,18000,17,2023-11-05,Giza
+1006,HP Pavilion,Laptop,22000,1,2023-11-05,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,6,2023-11-05,Cairo
+1008,Microsoft Surface,Tablet,28000,9,2023-11-05,Alexandria
+1001,iPhone 13,Mobile,25000,16,2023-11-12,Giza
+1002,Dell XPS 15,Laptop,35000,30,2023-11-12,Giza
+1003,Samsung A52,Mobile,15000,12,2023-11-12,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,7,2023-11-12,Cairo
+1005,iPad Air,Tablet,18000,11,2023-11-12,Giza
+1006,HP Pavilion,Laptop,22000,13,2023-11-12,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,26,2023-11-12,Alexandria
+1008,Microsoft Surface,Tablet,28000,27,2023-11-12,Alexandria
+1001,iPhone 13,Mobile,25000,13,2023-11-19,Alexandria
+1002,Dell XPS 15,Laptop,35000,2,2023-11-19,Cairo
+1003,Samsung A52,Mobile,15000,13,2023-11-19,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,7,2023-11-19,Cairo
+1005,iPad Air,Tablet,18000,19,2023-11-19,Cairo
+1006,HP Pavilion,Laptop,22000,7,2023-11-19,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,3,2023-11-19,Giza
+1008,Microsoft Surface,Tablet,28000,28,2023-11-19,Alexandria
+1001,iPhone 13,Mobile,25000,22,2023-11-26,Alexandria
+1002,Dell XPS 15,Laptop,35000,2,2023-11-26,Alexandria
+1003,Samsung A52,Mobile,15000,18,2023-11-26,Giza
+1004,Lenovo Legion 5,Laptop,30000,1,2023-11-26,Cairo
+1005,iPad Air,Tablet,18000,7,2023-11-26,Alexandria
+1006,HP Pavilion,Laptop,22000,23,2023-11-26,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,12,2023-11-26,Alexandria
+1008,Microsoft Surface,Tablet,28000,23,2023-11-26,Cairo
+1001,iPhone 13,Mobile,25000,16,2023-12-03,Giza
+1002,Dell XPS 15,Laptop,35000,8,2023-12-03,Giza
+1003,Samsung A52,Mobile,15000,4,2023-12-03,Cairo
+1004,Lenovo Legion 5,Laptop,30000,7,2023-12-03,Giza
+1005,iPad Air,Tablet,18000,22,2023-12-03,Giza
+1006,HP Pavilion,Laptop,22000,10,2023-12-03,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,21,2023-12-03,Giza
+1008,Microsoft Surface,Tablet,28000,13,2023-12-03,Alexandria
+1001,iPhone 13,Mobile,25000,7,2023-12-10,Giza
+1002,Dell XPS 15,Laptop,35000,27,2023-12-10,Cairo
+1003,Samsung A52,Mobile,15000,24,2023-12-10,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,22,2023-12-10,Alexandria
+1005,iPad Air,Tablet,18000,27,2023-12-10,Giza
+1006,HP Pavilion,Laptop,22000,8,2023-12-10,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,11,2023-12-10,Cairo
+1008,Microsoft Surface,Tablet,28000,7,2023-12-10,Alexandria
+1001,iPhone 13,Mobile,25000,5,2023-12-17,Alexandria
+1002,Dell XPS 15,Laptop,35000,19,2023-12-17,Giza
+1003,Samsung A52,Mobile,15000,15,2023-12-17,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,14,2023-12-17,Alexandria
+1005,iPad Air,Tablet,18000,28,2023-12-17,Giza
+1006,HP Pavilion,Laptop,22000,3,2023-12-17,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,6,2023-12-17,Alexandria
+1008,Microsoft Surface,Tablet,28000,9,2023-12-17,Alexandria
+1001,iPhone 13,Mobile,25000,0,2023-12-24,Alexandria
+1002,Dell XPS 15,Laptop,35000,24,2023-12-24,Cairo
+1003,Samsung A52,Mobile,15000,1,2023-12-24,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,9,2023-12-24,Giza
+1005,iPad Air,Tablet,18000,12,2023-12-24,Giza
+1006,HP Pavilion,Laptop,22000,3,2023-12-24,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,18,2023-12-24,Cairo
+1008,Microsoft Surface,Tablet,28000,15,2023-12-24,Cairo
+1001,iPhone 13,Mobile,25000,18,2023-12-31,Cairo
+1002,Dell XPS 15,Laptop,35000,11,2023-12-31,Giza
+1003,Samsung A52,Mobile,15000,29,2023-12-31,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,25,2023-12-31,Alexandria
+1005,iPad Air,Tablet,18000,10,2023-12-31,Giza
+1006,HP Pavilion,Laptop,22000,17,2023-12-31,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,20,2023-12-31,Alexandria
+1008,Microsoft Surface,Tablet,28000,24,2023-12-31,Giza
+1001,iPhone 13,Mobile,25000,30,2024-01-07,Giza
+1002,Dell XPS 15,Laptop,35000,11,2024-01-07,Cairo
+1003,Samsung A52,Mobile,15000,0,2024-01-07,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,8,2024-01-07,Giza
+1005,iPad Air,Tablet,18000,5,2024-01-07,Alexandria
+1006,HP Pavilion,Laptop,22000,0,2024-01-07,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,28,2024-01-07,Cairo
+1008,Microsoft Surface,Tablet,28000,14,2024-01-07,Giza
+1001,iPhone 13,Mobile,25000,8,2024-01-14,Cairo
+1002,Dell XPS 15,Laptop,35000,6,2024-01-14,Cairo
+1003,Samsung A52,Mobile,15000,11,2024-01-14,Cairo
+1004,Lenovo Legion 5,Laptop,30000,20,2024-01-14,Cairo
+1005,iPad Air,Tablet,18000,0,2024-01-14,Giza
+1006,HP Pavilion,Laptop,22000,3,2024-01-14,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,7,2024-01-14,Cairo
+1008,Microsoft Surface,Tablet,28000,25,2024-01-14,Alexandria
+1001,iPhone 13,Mobile,25000,19,2024-01-21,Giza
+1002,Dell XPS 15,Laptop,35000,13,2024-01-21,Giza
+1003,Samsung A52,Mobile,15000,6,2024-01-21,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,27,2024-01-21,Giza
+1005,iPad Air,Tablet,18000,20,2024-01-21,Cairo
+1006,HP Pavilion,Laptop,22000,19,2024-01-21,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2024-01-21,Cairo
+1008,Microsoft Surface,Tablet,28000,4,2024-01-21,Giza
+1001,iPhone 13,Mobile,25000,10,2024-01-28,Giza
+1002,Dell XPS 15,Laptop,35000,15,2024-01-28,Cairo
+1003,Samsung A52,Mobile,15000,8,2024-01-28,Cairo
+1004,Lenovo Legion 5,Laptop,30000,20,2024-01-28,Giza
+1005,iPad Air,Tablet,18000,29,2024-01-28,Cairo
+1006,HP Pavilion,Laptop,22000,10,2024-01-28,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,26,2024-01-28,Giza
+1008,Microsoft Surface,Tablet,28000,28,2024-01-28,Giza
+1001,iPhone 13,Mobile,25000,7,2024-02-04,Alexandria
+1002,Dell XPS 15,Laptop,35000,30,2024-02-04,Giza
+1003,Samsung A52,Mobile,15000,16,2024-02-04,Cairo
+1004,Lenovo Legion 5,Laptop,30000,29,2024-02-04,Cairo
+1005,iPad Air,Tablet,18000,13,2024-02-04,Giza
+1006,HP Pavilion,Laptop,22000,15,2024-02-04,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,28,2024-02-04,Alexandria
+1008,Microsoft Surface,Tablet,28000,13,2024-02-04,Giza
+1001,iPhone 13,Mobile,25000,5,2024-02-11,Alexandria
+1002,Dell XPS 15,Laptop,35000,7,2024-02-11,Alexandria
+1003,Samsung A52,Mobile,15000,11,2024-02-11,Giza
+1004,Lenovo Legion 5,Laptop,30000,1,2024-02-11,Cairo
+1005,iPad Air,Tablet,18000,25,2024-02-11,Cairo
+1006,HP Pavilion,Laptop,22000,20,2024-02-11,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2024-02-11,Giza
+1008,Microsoft Surface,Tablet,28000,3,2024-02-11,Cairo
+1001,iPhone 13,Mobile,25000,7,2024-02-18,Cairo
+1002,Dell XPS 15,Laptop,35000,22,2024-02-18,Alexandria
+1003,Samsung A52,Mobile,15000,5,2024-02-18,Giza
+1004,Lenovo Legion 5,Laptop,30000,6,2024-02-18,Alexandria
+1005,iPad Air,Tablet,18000,3,2024-02-18,Cairo
+1006,HP Pavilion,Laptop,22000,16,2024-02-18,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,26,2024-02-18,Giza
+1008,Microsoft Surface,Tablet,28000,0,2024-02-18,Cairo
+1001,iPhone 13,Mobile,25000,27,2024-02-25,Cairo
+1002,Dell XPS 15,Laptop,35000,10,2024-02-25,Alexandria
+1003,Samsung A52,Mobile,15000,3,2024-02-25,Giza
+1004,Lenovo Legion 5,Laptop,30000,9,2024-02-25,Cairo
+1005,iPad Air,Tablet,18000,19,2024-02-25,Alexandria
+1006,HP Pavilion,Laptop,22000,22,2024-02-25,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,15,2024-02-25,Alexandria
+1008,Microsoft Surface,Tablet,28000,3,2024-02-25,Cairo
+1001,iPhone 13,Mobile,25000,25,2024-03-03,Giza
+1002,Dell XPS 15,Laptop,35000,1,2024-03-03,Giza
+1003,Samsung A52,Mobile,15000,22,2024-03-03,Cairo
+1004,Lenovo Legion 5,Laptop,30000,6,2024-03-03,Alexandria
+1005,iPad Air,Tablet,18000,7,2024-03-03,Alexandria
+1006,HP Pavilion,Laptop,22000,7,2024-03-03,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,28,2024-03-03,Cairo
+1008,Microsoft Surface,Tablet,28000,8,2024-03-03,Giza
+1001,iPhone 13,Mobile,25000,20,2024-03-10,Giza
+1002,Dell XPS 15,Laptop,35000,28,2024-03-10,Alexandria
+1003,Samsung A52,Mobile,15000,21,2024-03-10,Cairo
+1004,Lenovo Legion 5,Laptop,30000,29,2024-03-10,Giza
+1005,iPad Air,Tablet,18000,25,2024-03-10,Alexandria
+1006,HP Pavilion,Laptop,22000,28,2024-03-10,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,2,2024-03-10,Giza
+1008,Microsoft Surface,Tablet,28000,4,2024-03-10,Cairo
+1001,iPhone 13,Mobile,25000,13,2024-03-17,Giza
+1002,Dell XPS 15,Laptop,35000,10,2024-03-17,Alexandria
+1003,Samsung A52,Mobile,15000,4,2024-03-17,Cairo
+1004,Lenovo Legion 5,Laptop,30000,4,2024-03-17,Alexandria
+1005,iPad Air,Tablet,18000,25,2024-03-17,Alexandria
+1006,HP Pavilion,Laptop,22000,19,2024-03-17,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,25,2024-03-17,Alexandria
+1008,Microsoft Surface,Tablet,28000,21,2024-03-17,Alexandria
+1001,iPhone 13,Mobile,25000,25,2024-03-24,Giza
+1002,Dell XPS 15,Laptop,35000,21,2024-03-24,Giza
+1003,Samsung A52,Mobile,15000,27,2024-03-24,Cairo
+1004,Lenovo Legion 5,Laptop,30000,2,2024-03-24,Alexandria
+1005,iPad Air,Tablet,18000,20,2024-03-24,Alexandria
+1006,HP Pavilion,Laptop,22000,20,2024-03-24,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,30,2024-03-24,Cairo
+1008,Microsoft Surface,Tablet,28000,20,2024-03-24,Cairo
+1001,iPhone 13,Mobile,25000,30,2024-03-31,Cairo
+1002,Dell XPS 15,Laptop,35000,3,2024-03-31,Cairo
+1003,Samsung A52,Mobile,15000,21,2024-03-31,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,24,2024-03-31,Giza
+1005,iPad Air,Tablet,18000,12,2024-03-31,Giza
+1006,HP Pavilion,Laptop,22000,30,2024-03-31,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,25,2024-03-31,Cairo
+1008,Microsoft Surface,Tablet,28000,3,2024-03-31,Alexandria
+1001,iPhone 13,Mobile,25000,25,2024-04-07,Alexandria
+1002,Dell XPS 15,Laptop,35000,10,2024-04-07,Alexandria
+1003,Samsung A52,Mobile,15000,16,2024-04-07,Giza
+1004,Lenovo Legion 5,Laptop,30000,7,2024-04-07,Cairo
+1005,iPad Air,Tablet,18000,25,2024-04-07,Giza
+1006,HP Pavilion,Laptop,22000,26,2024-04-07,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,15,2024-04-07,Cairo
+1008,Microsoft Surface,Tablet,28000,4,2024-04-07,Cairo
+1001,iPhone 13,Mobile,25000,6,2024-04-14,Cairo
+1002,Dell XPS 15,Laptop,35000,26,2024-04-14,Alexandria
+1003,Samsung A52,Mobile,15000,23,2024-04-14,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,14,2024-04-14,Giza
+1005,iPad Air,Tablet,18000,2,2024-04-14,Alexandria
+1006,HP Pavilion,Laptop,22000,2,2024-04-14,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,24,2024-04-14,Cairo
+1008,Microsoft Surface,Tablet,28000,12,2024-04-14,Cairo
+1001,iPhone 13,Mobile,25000,23,2024-04-21,Cairo
+1002,Dell XPS 15,Laptop,35000,29,2024-04-21,Giza
+1003,Samsung A52,Mobile,15000,1,2024-04-21,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,18,2024-04-21,Cairo
+1005,iPad Air,Tablet,18000,7,2024-04-21,Cairo
+1006,HP Pavilion,Laptop,22000,2,2024-04-21,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2024-04-21,Cairo
+1008,Microsoft Surface,Tablet,28000,29,2024-04-21,Alexandria
+1001,iPhone 13,Mobile,25000,14,2024-04-28,Cairo
+1002,Dell XPS 15,Laptop,35000,30,2024-04-28,Cairo
+1003,Samsung A52,Mobile,15000,15,2024-04-28,Cairo
+1004,Lenovo Legion 5,Laptop,30000,1,2024-04-28,Cairo
+1005,iPad Air,Tablet,18000,7,2024-04-28,Alexandria
+1006,HP Pavilion,Laptop,22000,29,2024-04-28,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2024-04-28,Cairo
+1008,Microsoft Surface,Tablet,28000,21,2024-04-28,Giza
+1001,iPhone 13,Mobile,25000,15,2024-05-05,Cairo
+1002,Dell XPS 15,Laptop,35000,11,2024-05-05,Alexandria
+1003,Samsung A52,Mobile,15000,21,2024-05-05,Giza
+1004,Lenovo Legion 5,Laptop,30000,28,2024-05-05,Alexandria
+1005,iPad Air,Tablet,18000,1,2024-05-05,Giza
+1006,HP Pavilion,Laptop,22000,5,2024-05-05,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,2,2024-05-05,Alexandria
+1008,Microsoft Surface,Tablet,28000,12,2024-05-05,Alexandria
+1001,iPhone 13,Mobile,25000,16,2024-05-12,Giza
+1002,Dell XPS 15,Laptop,35000,9,2024-05-12,Giza
+1003,Samsung A52,Mobile,15000,12,2024-05-12,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,6,2024-05-12,Alexandria
+1005,iPad Air,Tablet,18000,21,2024-05-12,Giza
+1006,HP Pavilion,Laptop,22000,23,2024-05-12,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,22,2024-05-12,Cairo
+1008,Microsoft Surface,Tablet,28000,20,2024-05-12,Giza
+1001,iPhone 13,Mobile,25000,29,2024-05-19,Cairo
+1002,Dell XPS 15,Laptop,35000,22,2024-05-19,Cairo
+1003,Samsung A52,Mobile,15000,22,2024-05-19,Giza
+1004,Lenovo Legion 5,Laptop,30000,25,2024-05-19,Giza
+1005,iPad Air,Tablet,18000,10,2024-05-19,Cairo
+1006,HP Pavilion,Laptop,22000,27,2024-05-19,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2024-05-19,Cairo
+1008,Microsoft Surface,Tablet,28000,26,2024-05-19,Giza
+1001,iPhone 13,Mobile,25000,13,2024-05-26,Alexandria
+1002,Dell XPS 15,Laptop,35000,27,2024-05-26,Alexandria
+1003,Samsung A52,Mobile,15000,4,2024-05-26,Giza
+1004,Lenovo Legion 5,Laptop,30000,17,2024-05-26,Cairo
+1005,iPad Air,Tablet,18000,12,2024-05-26,Giza
+1006,HP Pavilion,Laptop,22000,10,2024-05-26,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,7,2024-05-26,Alexandria
+1008,Microsoft Surface,Tablet,28000,27,2024-05-26,Alexandria
+1001,iPhone 13,Mobile,25000,28,2024-06-02,Giza
+1002,Dell XPS 15,Laptop,35000,0,2024-06-02,Cairo
+1003,Samsung A52,Mobile,15000,9,2024-06-02,Cairo
+1004,Lenovo Legion 5,Laptop,30000,11,2024-06-02,Alexandria
+1005,iPad Air,Tablet,18000,25,2024-06-02,Giza
+1006,HP Pavilion,Laptop,22000,22,2024-06-02,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,4,2024-06-02,Giza
+1008,Microsoft Surface,Tablet,28000,23,2024-06-02,Cairo
+1001,iPhone 13,Mobile,25000,21,2024-06-09,Giza
+1002,Dell XPS 15,Laptop,35000,10,2024-06-09,Giza
+1003,Samsung A52,Mobile,15000,28,2024-06-09,Cairo
+1004,Lenovo Legion 5,Laptop,30000,30,2024-06-09,Giza
+1005,iPad Air,Tablet,18000,30,2024-06-09,Giza
+1006,HP Pavilion,Laptop,22000,29,2024-06-09,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,22,2024-06-09,Alexandria
+1008,Microsoft Surface,Tablet,28000,3,2024-06-09,Alexandria
+1001,iPhone 13,Mobile,25000,29,2024-06-16,Giza
+1002,Dell XPS 15,Laptop,35000,30,2024-06-16,Alexandria
+1003,Samsung A52,Mobile,15000,4,2024-06-16,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,23,2024-06-16,Giza
+1005,iPad Air,Tablet,18000,5,2024-06-16,Alexandria
+1006,HP Pavilion,Laptop,22000,2,2024-06-16,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,14,2024-06-16,Cairo
+1008,Microsoft Surface,Tablet,28000,10,2024-06-16,Cairo
+1001,iPhone 13,Mobile,25000,21,2024-06-23,Cairo
+1002,Dell XPS 15,Laptop,35000,22,2024-06-23,Giza
+1003,Samsung A52,Mobile,15000,4,2024-06-23,Giza
+1004,Lenovo Legion 5,Laptop,30000,25,2024-06-23,Alexandria
+1005,iPad Air,Tablet,18000,16,2024-06-23,Alexandria
+1006,HP Pavilion,Laptop,22000,9,2024-06-23,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,20,2024-06-23,Cairo
+1008,Microsoft Surface,Tablet,28000,2,2024-06-23,Cairo
+1001,iPhone 13,Mobile,25000,11,2024-06-30,Cairo
+1002,Dell XPS 15,Laptop,35000,15,2024-06-30,Cairo
+1003,Samsung A52,Mobile,15000,2,2024-06-30,Giza
+1004,Lenovo Legion 5,Laptop,30000,19,2024-06-30,Cairo
+1005,iPad Air,Tablet,18000,16,2024-06-30,Alexandria
+1006,HP Pavilion,Laptop,22000,30,2024-06-30,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,5,2024-06-30,Giza
+1008,Microsoft Surface,Tablet,28000,15,2024-06-30,Cairo
+1001,iPhone 13,Mobile,25000,26,2024-07-07,Alexandria
+1002,Dell XPS 15,Laptop,35000,29,2024-07-07,Alexandria
+1003,Samsung A52,Mobile,15000,27,2024-07-07,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,12,2024-07-07,Giza
+1005,iPad Air,Tablet,18000,21,2024-07-07,Cairo
+1006,HP Pavilion,Laptop,22000,12,2024-07-07,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,9,2024-07-07,Alexandria
+1008,Microsoft Surface,Tablet,28000,7,2024-07-07,Giza
+1001,iPhone 13,Mobile,25000,11,2024-07-14,Alexandria
+1002,Dell XPS 15,Laptop,35000,25,2024-07-14,Giza
+1003,Samsung A52,Mobile,15000,11,2024-07-14,Giza
+1004,Lenovo Legion 5,Laptop,30000,21,2024-07-14,Giza
+1005,iPad Air,Tablet,18000,13,2024-07-14,Alexandria
+1006,HP Pavilion,Laptop,22000,8,2024-07-14,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,28,2024-07-14,Alexandria
+1008,Microsoft Surface,Tablet,28000,16,2024-07-14,Cairo
+1001,iPhone 13,Mobile,25000,4,2024-07-21,Alexandria
+1002,Dell XPS 15,Laptop,35000,6,2024-07-21,Alexandria
+1003,Samsung A52,Mobile,15000,5,2024-07-21,Cairo
+1004,Lenovo Legion 5,Laptop,30000,21,2024-07-21,Alexandria
+1005,iPad Air,Tablet,18000,25,2024-07-21,Giza
+1006,HP Pavilion,Laptop,22000,21,2024-07-21,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,8,2024-07-21,Giza
+1008,Microsoft Surface,Tablet,28000,22,2024-07-21,Giza
+1001,iPhone 13,Mobile,25000,14,2024-07-28,Giza
+1002,Dell XPS 15,Laptop,35000,5,2024-07-28,Alexandria
+1003,Samsung A52,Mobile,15000,1,2024-07-28,Cairo
+1004,Lenovo Legion 5,Laptop,30000,24,2024-07-28,Alexandria
+1005,iPad Air,Tablet,18000,19,2024-07-28,Alexandria
+1006,HP Pavilion,Laptop,22000,4,2024-07-28,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,28,2024-07-28,Giza
+1008,Microsoft Surface,Tablet,28000,15,2024-07-28,Giza
+1001,iPhone 13,Mobile,25000,25,2024-08-04,Giza
+1002,Dell XPS 15,Laptop,35000,20,2024-08-04,Cairo
+1003,Samsung A52,Mobile,15000,22,2024-08-04,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,18,2024-08-04,Giza
+1005,iPad Air,Tablet,18000,13,2024-08-04,Giza
+1006,HP Pavilion,Laptop,22000,1,2024-08-04,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,23,2024-08-04,Cairo
+1008,Microsoft Surface,Tablet,28000,23,2024-08-04,Alexandria
+1001,iPhone 13,Mobile,25000,30,2024-08-11,Cairo
+1002,Dell XPS 15,Laptop,35000,23,2024-08-11,Giza
+1003,Samsung A52,Mobile,15000,16,2024-08-11,Giza
+1004,Lenovo Legion 5,Laptop,30000,15,2024-08-11,Giza
+1005,iPad Air,Tablet,18000,27,2024-08-11,Giza
+1006,HP Pavilion,Laptop,22000,4,2024-08-11,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,14,2024-08-11,Alexandria
+1008,Microsoft Surface,Tablet,28000,24,2024-08-11,Giza
+1001,iPhone 13,Mobile,25000,12,2024-08-18,Alexandria
+1002,Dell XPS 15,Laptop,35000,0,2024-08-18,Cairo
+1003,Samsung A52,Mobile,15000,12,2024-08-18,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,8,2024-08-18,Giza
+1005,iPad Air,Tablet,18000,24,2024-08-18,Giza
+1006,HP Pavilion,Laptop,22000,6,2024-08-18,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2024-08-18,Cairo
+1008,Microsoft Surface,Tablet,28000,30,2024-08-18,Cairo
+1001,iPhone 13,Mobile,25000,21,2024-08-25,Alexandria
+1002,Dell XPS 15,Laptop,35000,17,2024-08-25,Giza
+1003,Samsung A52,Mobile,15000,10,2024-08-25,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,18,2024-08-25,Cairo
+1005,iPad Air,Tablet,18000,30,2024-08-25,Alexandria
+1006,HP Pavilion,Laptop,22000,5,2024-08-25,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,27,2024-08-25,Cairo
+1008,Microsoft Surface,Tablet,28000,13,2024-08-25,Cairo
+1001,iPhone 13,Mobile,25000,9,2024-09-01,Giza
+1002,Dell XPS 15,Laptop,35000,30,2024-09-01,Giza
+1003,Samsung A52,Mobile,15000,0,2024-09-01,Giza
+1004,Lenovo Legion 5,Laptop,30000,22,2024-09-01,Giza
+1005,iPad Air,Tablet,18000,16,2024-09-01,Giza
+1006,HP Pavilion,Laptop,22000,20,2024-09-01,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,19,2024-09-01,Cairo
+1008,Microsoft Surface,Tablet,28000,12,2024-09-01,Cairo
+1001,iPhone 13,Mobile,25000,27,2024-09-08,Alexandria
+1002,Dell XPS 15,Laptop,35000,15,2024-09-08,Giza
+1003,Samsung A52,Mobile,15000,24,2024-09-08,Giza
+1004,Lenovo Legion 5,Laptop,30000,2,2024-09-08,Alexandria
+1005,iPad Air,Tablet,18000,24,2024-09-08,Giza
+1006,HP Pavilion,Laptop,22000,14,2024-09-08,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,21,2024-09-08,Cairo
+1008,Microsoft Surface,Tablet,28000,11,2024-09-08,Giza
+1001,iPhone 13,Mobile,25000,7,2024-09-15,Cairo
+1002,Dell XPS 15,Laptop,35000,28,2024-09-15,Giza
+1003,Samsung A52,Mobile,15000,18,2024-09-15,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,14,2024-09-15,Alexandria
+1005,iPad Air,Tablet,18000,27,2024-09-15,Alexandria
+1006,HP Pavilion,Laptop,22000,17,2024-09-15,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,12,2024-09-15,Alexandria
+1008,Microsoft Surface,Tablet,28000,23,2024-09-15,Alexandria
+1001,iPhone 13,Mobile,25000,17,2024-09-22,Alexandria
+1002,Dell XPS 15,Laptop,35000,18,2024-09-22,Alexandria
+1003,Samsung A52,Mobile,15000,28,2024-09-22,Cairo
+1004,Lenovo Legion 5,Laptop,30000,7,2024-09-22,Alexandria
+1005,iPad Air,Tablet,18000,1,2024-09-22,Cairo
+1006,HP Pavilion,Laptop,22000,21,2024-09-22,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2024-09-22,Cairo
+1008,Microsoft Surface,Tablet,28000,13,2024-09-22,Alexandria
+1001,iPhone 13,Mobile,25000,28,2024-09-29,Cairo
+1002,Dell XPS 15,Laptop,35000,28,2024-09-29,Giza
+1003,Samsung A52,Mobile,15000,20,2024-09-29,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,17,2024-09-29,Alexandria
+1005,iPad Air,Tablet,18000,4,2024-09-29,Giza
+1006,HP Pavilion,Laptop,22000,4,2024-09-29,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,15,2024-09-29,Alexandria
+1008,Microsoft Surface,Tablet,28000,25,2024-09-29,Giza
+1001,iPhone 13,Mobile,25000,6,2024-10-06,Cairo
+1002,Dell XPS 15,Laptop,35000,23,2024-10-06,Cairo
+1003,Samsung A52,Mobile,15000,15,2024-10-06,Cairo
+1004,Lenovo Legion 5,Laptop,30000,29,2024-10-06,Cairo
+1005,iPad Air,Tablet,18000,9,2024-10-06,Giza
+1006,HP Pavilion,Laptop,22000,17,2024-10-06,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,5,2024-10-06,Giza
+1008,Microsoft Surface,Tablet,28000,20,2024-10-06,Cairo
+1001,iPhone 13,Mobile,25000,13,2024-10-13,Cairo
+1002,Dell XPS 15,Laptop,35000,24,2024-10-13,Cairo
+1003,Samsung A52,Mobile,15000,10,2024-10-13,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,20,2024-10-13,Giza
+1005,iPad Air,Tablet,18000,26,2024-10-13,Giza
+1006,HP Pavilion,Laptop,22000,11,2024-10-13,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,1,2024-10-13,Alexandria
+1008,Microsoft Surface,Tablet,28000,22,2024-10-13,Alexandria
+1001,iPhone 13,Mobile,25000,24,2024-10-20,Cairo
+1002,Dell XPS 15,Laptop,35000,15,2024-10-20,Cairo
+1003,Samsung A52,Mobile,15000,28,2024-10-20,Giza
+1004,Lenovo Legion 5,Laptop,30000,26,2024-10-20,Giza
+1005,iPad Air,Tablet,18000,22,2024-10-20,Cairo
+1006,HP Pavilion,Laptop,22000,29,2024-10-20,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,22,2024-10-20,Giza
+1008,Microsoft Surface,Tablet,28000,3,2024-10-20,Cairo
+1001,iPhone 13,Mobile,25000,26,2024-10-27,Alexandria
+1002,Dell XPS 15,Laptop,35000,24,2024-10-27,Cairo
+1003,Samsung A52,Mobile,15000,0,2024-10-27,Giza
+1004,Lenovo Legion 5,Laptop,30000,25,2024-10-27,Alexandria
+1005,iPad Air,Tablet,18000,29,2024-10-27,Giza
+1006,HP Pavilion,Laptop,22000,20,2024-10-27,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,9,2024-10-27,Cairo
+1008,Microsoft Surface,Tablet,28000,13,2024-10-27,Alexandria
+1001,iPhone 13,Mobile,25000,16,2024-11-03,Cairo
+1002,Dell XPS 15,Laptop,35000,23,2024-11-03,Giza
+1003,Samsung A52,Mobile,15000,26,2024-11-03,Cairo
+1004,Lenovo Legion 5,Laptop,30000,5,2024-11-03,Cairo
+1005,iPad Air,Tablet,18000,9,2024-11-03,Giza
+1006,HP Pavilion,Laptop,22000,1,2024-11-03,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,17,2024-11-03,Giza
+1008,Microsoft Surface,Tablet,28000,11,2024-11-03,Alexandria
+1001,iPhone 13,Mobile,25000,28,2024-11-10,Alexandria
+1002,Dell XPS 15,Laptop,35000,24,2024-11-10,Cairo
+1003,Samsung A52,Mobile,15000,30,2024-11-10,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,27,2024-11-10,Giza
+1005,iPad Air,Tablet,18000,0,2024-11-10,Cairo
+1006,HP Pavilion,Laptop,22000,8,2024-11-10,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,26,2024-11-10,Cairo
+1008,Microsoft Surface,Tablet,28000,20,2024-11-10,Cairo
+1001,iPhone 13,Mobile,25000,27,2024-11-17,Giza
+1002,Dell XPS 15,Laptop,35000,29,2024-11-17,Alexandria
+1003,Samsung A52,Mobile,15000,22,2024-11-17,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,28,2024-11-17,Alexandria
+1005,iPad Air,Tablet,18000,28,2024-11-17,Giza
+1006,HP Pavilion,Laptop,22000,21,2024-11-17,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,5,2024-11-17,Cairo
+1008,Microsoft Surface,Tablet,28000,21,2024-11-17,Giza
+1001,iPhone 13,Mobile,25000,0,2024-11-24,Alexandria
+1002,Dell XPS 15,Laptop,35000,18,2024-11-24,Giza
+1003,Samsung A52,Mobile,15000,4,2024-11-24,Giza
+1004,Lenovo Legion 5,Laptop,30000,1,2024-11-24,Giza
+1005,iPad Air,Tablet,18000,0,2024-11-24,Cairo
+1006,HP Pavilion,Laptop,22000,6,2024-11-24,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,3,2024-11-24,Giza
+1008,Microsoft Surface,Tablet,28000,28,2024-11-24,Cairo
+1001,iPhone 13,Mobile,25000,8,2024-12-01,Giza
+1002,Dell XPS 15,Laptop,35000,15,2024-12-01,Cairo
+1003,Samsung A52,Mobile,15000,12,2024-12-01,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,22,2024-12-01,Alexandria
+1005,iPad Air,Tablet,18000,22,2024-12-01,Cairo
+1006,HP Pavilion,Laptop,22000,3,2024-12-01,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,10,2024-12-01,Alexandria
+1008,Microsoft Surface,Tablet,28000,1,2024-12-01,Alexandria
+1001,iPhone 13,Mobile,25000,17,2024-12-08,Alexandria
+1002,Dell XPS 15,Laptop,35000,18,2024-12-08,Cairo
+1003,Samsung A52,Mobile,15000,30,2024-12-08,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,26,2024-12-08,Giza
+1005,iPad Air,Tablet,18000,29,2024-12-08,Giza
+1006,HP Pavilion,Laptop,22000,25,2024-12-08,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,21,2024-12-08,Alexandria
+1008,Microsoft Surface,Tablet,28000,12,2024-12-08,Giza
+1001,iPhone 13,Mobile,25000,10,2024-12-15,Giza
+1002,Dell XPS 15,Laptop,35000,23,2024-12-15,Alexandria
+1003,Samsung A52,Mobile,15000,20,2024-12-15,Cairo
+1004,Lenovo Legion 5,Laptop,30000,16,2024-12-15,Cairo
+1005,iPad Air,Tablet,18000,14,2024-12-15,Giza
+1006,HP Pavilion,Laptop,22000,9,2024-12-15,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,27,2024-12-15,Cairo
+1008,Microsoft Surface,Tablet,28000,26,2024-12-15,Alexandria
+1001,iPhone 13,Mobile,25000,19,2024-12-22,Giza
+1002,Dell XPS 15,Laptop,35000,26,2024-12-22,Giza
+1003,Samsung A52,Mobile,15000,2,2024-12-22,Giza
+1004,Lenovo Legion 5,Laptop,30000,8,2024-12-22,Alexandria
+1005,iPad Air,Tablet,18000,15,2024-12-22,Alexandria
+1006,HP Pavilion,Laptop,22000,27,2024-12-22,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,26,2024-12-22,Alexandria
+1008,Microsoft Surface,Tablet,28000,9,2024-12-22,Cairo
+1001,iPhone 13,Mobile,25000,16,2024-12-29,Giza
+1002,Dell XPS 15,Laptop,35000,6,2024-12-29,Alexandria
+1003,Samsung A52,Mobile,15000,11,2024-12-29,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,26,2024-12-29,Cairo
+1005,iPad Air,Tablet,18000,11,2024-12-29,Giza
+1006,HP Pavilion,Laptop,22000,13,2024-12-29,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,20,2024-12-29,Alexandria
+1008,Microsoft Surface,Tablet,28000,27,2024-12-29,Alexandria
+1001,iPhone 13,Mobile,25000,6,2025-01-05,Alexandria
+1002,Dell XPS 15,Laptop,35000,23,2025-01-05,Giza
+1003,Samsung A52,Mobile,15000,14,2025-01-05,Giza
+1004,Lenovo Legion 5,Laptop,30000,15,2025-01-05,Giza
+1005,iPad Air,Tablet,18000,16,2025-01-05,Alexandria
+1006,HP Pavilion,Laptop,22000,13,2025-01-05,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,26,2025-01-05,Giza
+1008,Microsoft Surface,Tablet,28000,11,2025-01-05,Giza
+1001,iPhone 13,Mobile,25000,2,2025-01-12,Cairo
+1002,Dell XPS 15,Laptop,35000,6,2025-01-12,Giza
+1003,Samsung A52,Mobile,15000,24,2025-01-12,Cairo
+1004,Lenovo Legion 5,Laptop,30000,29,2025-01-12,Cairo
+1005,iPad Air,Tablet,18000,18,2025-01-12,Alexandria
+1006,HP Pavilion,Laptop,22000,0,2025-01-12,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,18,2025-01-12,Giza
+1008,Microsoft Surface,Tablet,28000,27,2025-01-12,Giza
+1001,iPhone 13,Mobile,25000,15,2025-01-19,Cairo
+1002,Dell XPS 15,Laptop,35000,29,2025-01-19,Giza
+1003,Samsung A52,Mobile,15000,14,2025-01-19,Giza
+1004,Lenovo Legion 5,Laptop,30000,29,2025-01-19,Alexandria
+1005,iPad Air,Tablet,18000,30,2025-01-19,Cairo
+1006,HP Pavilion,Laptop,22000,26,2025-01-19,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,7,2025-01-19,Alexandria
+1008,Microsoft Surface,Tablet,28000,1,2025-01-19,Giza
+1001,iPhone 13,Mobile,25000,1,2025-01-26,Giza
+1002,Dell XPS 15,Laptop,35000,26,2025-01-26,Cairo
+1003,Samsung A52,Mobile,15000,15,2025-01-26,Giza
+1004,Lenovo Legion 5,Laptop,30000,4,2025-01-26,Alexandria
+1005,iPad Air,Tablet,18000,15,2025-01-26,Cairo
+1006,HP Pavilion,Laptop,22000,8,2025-01-26,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,7,2025-01-26,Giza
+1008,Microsoft Surface,Tablet,28000,15,2025-01-26,Alexandria
+1001,iPhone 13,Mobile,25000,15,2025-02-02,Giza
+1002,Dell XPS 15,Laptop,35000,14,2025-02-02,Cairo
+1003,Samsung A52,Mobile,15000,18,2025-02-02,Giza
+1004,Lenovo Legion 5,Laptop,30000,1,2025-02-02,Giza
+1005,iPad Air,Tablet,18000,21,2025-02-02,Alexandria
+1006,HP Pavilion,Laptop,22000,8,2025-02-02,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,9,2025-02-02,Alexandria
+1008,Microsoft Surface,Tablet,28000,16,2025-02-02,Alexandria
+1001,iPhone 13,Mobile,25000,21,2025-02-09,Alexandria
+1002,Dell XPS 15,Laptop,35000,22,2025-02-09,Alexandria
+1003,Samsung A52,Mobile,15000,27,2025-02-09,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,16,2025-02-09,Cairo
+1005,iPad Air,Tablet,18000,15,2025-02-09,Cairo
+1006,HP Pavilion,Laptop,22000,4,2025-02-09,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,7,2025-02-09,Giza
+1008,Microsoft Surface,Tablet,28000,24,2025-02-09,Cairo
+1001,iPhone 13,Mobile,25000,11,2025-02-16,Alexandria
+1002,Dell XPS 15,Laptop,35000,22,2025-02-16,Alexandria
+1003,Samsung A52,Mobile,15000,27,2025-02-16,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,24,2025-02-16,Cairo
+1005,iPad Air,Tablet,18000,14,2025-02-16,Giza
+1006,HP Pavilion,Laptop,22000,17,2025-02-16,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,10,2025-02-16,Cairo
+1008,Microsoft Surface,Tablet,28000,23,2025-02-16,Giza
+1001,iPhone 13,Mobile,25000,0,2025-02-23,Cairo
+1002,Dell XPS 15,Laptop,35000,23,2025-02-23,Cairo
+1003,Samsung A52,Mobile,15000,19,2025-02-23,Giza
+1004,Lenovo Legion 5,Laptop,30000,6,2025-02-23,Giza
+1005,iPad Air,Tablet,18000,14,2025-02-23,Cairo
+1006,HP Pavilion,Laptop,22000,25,2025-02-23,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,18,2025-02-23,Alexandria
+1008,Microsoft Surface,Tablet,28000,12,2025-02-23,Cairo
+1001,iPhone 13,Mobile,25000,2,2025-03-02,Giza
+1002,Dell XPS 15,Laptop,35000,22,2025-03-02,Giza
+1003,Samsung A52,Mobile,15000,1,2025-03-02,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,9,2025-03-02,Cairo
+1005,iPad Air,Tablet,18000,3,2025-03-02,Alexandria
+1006,HP Pavilion,Laptop,22000,28,2025-03-02,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,20,2025-03-02,Giza
+1008,Microsoft Surface,Tablet,28000,22,2025-03-02,Cairo
+1001,iPhone 13,Mobile,25000,23,2025-03-09,Cairo
+1002,Dell XPS 15,Laptop,35000,23,2025-03-09,Alexandria
+1003,Samsung A52,Mobile,15000,2,2025-03-09,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,28,2025-03-09,Alexandria
+1005,iPad Air,Tablet,18000,17,2025-03-09,Alexandria
+1006,HP Pavilion,Laptop,22000,5,2025-03-09,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,12,2025-03-09,Alexandria
+1008,Microsoft Surface,Tablet,28000,12,2025-03-09,Giza
+1001,iPhone 13,Mobile,25000,22,2025-03-16,Cairo
+1002,Dell XPS 15,Laptop,35000,11,2025-03-16,Alexandria
+1003,Samsung A52,Mobile,15000,16,2025-03-16,Giza
+1004,Lenovo Legion 5,Laptop,30000,18,2025-03-16,Cairo
+1005,iPad Air,Tablet,18000,0,2025-03-16,Alexandria
+1006,HP Pavilion,Laptop,22000,11,2025-03-16,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,5,2025-03-16,Giza
+1008,Microsoft Surface,Tablet,28000,14,2025-03-16,Cairo
+1001,iPhone 13,Mobile,25000,5,2025-03-23,Giza
+1002,Dell XPS 15,Laptop,35000,2,2025-03-23,Cairo
+1003,Samsung A52,Mobile,15000,12,2025-03-23,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,4,2025-03-23,Giza
+1005,iPad Air,Tablet,18000,29,2025-03-23,Giza
+1006,HP Pavilion,Laptop,22000,23,2025-03-23,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,9,2025-03-23,Cairo
+1008,Microsoft Surface,Tablet,28000,14,2025-03-23,Alexandria
+1001,iPhone 13,Mobile,25000,22,2025-03-30,Giza
+1002,Dell XPS 15,Laptop,35000,4,2025-03-30,Alexandria
+1003,Samsung A52,Mobile,15000,12,2025-03-30,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,27,2025-03-30,Giza
+1005,iPad Air,Tablet,18000,6,2025-03-30,Cairo
+1006,HP Pavilion,Laptop,22000,25,2025-03-30,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,29,2025-03-30,Alexandria
+1008,Microsoft Surface,Tablet,28000,21,2025-03-30,Alexandria
+1001,iPhone 13,Mobile,25000,6,2025-04-06,Alexandria
+1002,Dell XPS 15,Laptop,35000,26,2025-04-06,Alexandria
+1003,Samsung A52,Mobile,15000,7,2025-04-06,Cairo
+1004,Lenovo Legion 5,Laptop,30000,9,2025-04-06,Alexandria
+1005,iPad Air,Tablet,18000,22,2025-04-06,Alexandria
+1006,HP Pavilion,Laptop,22000,7,2025-04-06,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,9,2025-04-06,Cairo
+1008,Microsoft Surface,Tablet,28000,18,2025-04-06,Cairo
+1001,iPhone 13,Mobile,25000,8,2025-04-13,Alexandria
+1002,Dell XPS 15,Laptop,35000,10,2025-04-13,Cairo
+1003,Samsung A52,Mobile,15000,7,2025-04-13,Cairo
+1004,Lenovo Legion 5,Laptop,30000,25,2025-04-13,Alexandria
+1005,iPad Air,Tablet,18000,3,2025-04-13,Cairo
+1006,HP Pavilion,Laptop,22000,20,2025-04-13,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,2,2025-04-13,Giza
+1008,Microsoft Surface,Tablet,28000,27,2025-04-13,Cairo
+1001,iPhone 13,Mobile,25000,22,2025-04-20,Giza
+1002,Dell XPS 15,Laptop,35000,19,2025-04-20,Giza
+1003,Samsung A52,Mobile,15000,15,2025-04-20,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,18,2025-04-20,Alexandria
+1005,iPad Air,Tablet,18000,21,2025-04-20,Alexandria
+1006,HP Pavilion,Laptop,22000,29,2025-04-20,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,23,2025-04-20,Alexandria
+1008,Microsoft Surface,Tablet,28000,24,2025-04-20,Alexandria
+1001,iPhone 13,Mobile,25000,18,2025-04-27,Giza
+1002,Dell XPS 15,Laptop,35000,7,2025-04-27,Cairo
+1003,Samsung A52,Mobile,15000,19,2025-04-27,Cairo
+1004,Lenovo Legion 5,Laptop,30000,14,2025-04-27,Alexandria
+1005,iPad Air,Tablet,18000,11,2025-04-27,Cairo
+1006,HP Pavilion,Laptop,22000,15,2025-04-27,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,24,2025-04-27,Giza
+1008,Microsoft Surface,Tablet,28000,13,2025-04-27,Cairo
+1001,iPhone 13,Mobile,25000,12,2025-05-04,Alexandria
+1002,Dell XPS 15,Laptop,35000,29,2025-05-04,Alexandria
+1003,Samsung A52,Mobile,15000,25,2025-05-04,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,23,2025-05-04,Cairo
+1005,iPad Air,Tablet,18000,17,2025-05-04,Alexandria
+1006,HP Pavilion,Laptop,22000,20,2025-05-04,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,3,2025-05-04,Cairo
+1008,Microsoft Surface,Tablet,28000,11,2025-05-04,Giza
+1001,iPhone 13,Mobile,25000,5,2025-05-11,Giza
+1002,Dell XPS 15,Laptop,35000,7,2025-05-11,Giza
+1003,Samsung A52,Mobile,15000,26,2025-05-11,Giza
+1004,Lenovo Legion 5,Laptop,30000,17,2025-05-11,Giza
+1005,iPad Air,Tablet,18000,3,2025-05-11,Alexandria
+1006,HP Pavilion,Laptop,22000,1,2025-05-11,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,13,2025-05-11,Cairo
+1008,Microsoft Surface,Tablet,28000,5,2025-05-11,Giza
+1001,iPhone 13,Mobile,25000,24,2025-05-18,Cairo
+1002,Dell XPS 15,Laptop,35000,26,2025-05-18,Giza
+1003,Samsung A52,Mobile,15000,15,2025-05-18,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,8,2025-05-18,Alexandria
+1005,iPad Air,Tablet,18000,19,2025-05-18,Alexandria
+1006,HP Pavilion,Laptop,22000,25,2025-05-18,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,18,2025-05-18,Cairo
+1008,Microsoft Surface,Tablet,28000,25,2025-05-18,Alexandria
+1001,iPhone 13,Mobile,25000,13,2025-05-25,Giza
+1002,Dell XPS 15,Laptop,35000,24,2025-05-25,Alexandria
+1003,Samsung A52,Mobile,15000,15,2025-05-25,Cairo
+1004,Lenovo Legion 5,Laptop,30000,17,2025-05-25,Cairo
+1005,iPad Air,Tablet,18000,25,2025-05-25,Cairo
+1006,HP Pavilion,Laptop,22000,2,2025-05-25,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,8,2025-05-25,Cairo
+1008,Microsoft Surface,Tablet,28000,9,2025-05-25,Cairo
+1001,iPhone 13,Mobile,25000,14,2025-06-01,Alexandria
+1002,Dell XPS 15,Laptop,35000,26,2025-06-01,Cairo
+1003,Samsung A52,Mobile,15000,11,2025-06-01,Cairo
+1004,Lenovo Legion 5,Laptop,30000,17,2025-06-01,Alexandria
+1005,iPad Air,Tablet,18000,11,2025-06-01,Giza
+1006,HP Pavilion,Laptop,22000,20,2025-06-01,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,23,2025-06-01,Alexandria
+1008,Microsoft Surface,Tablet,28000,4,2025-06-01,Cairo
+1001,iPhone 13,Mobile,25000,28,2025-06-08,Cairo
+1002,Dell XPS 15,Laptop,35000,2,2025-06-08,Cairo
+1003,Samsung A52,Mobile,15000,16,2025-06-08,Cairo
+1004,Lenovo Legion 5,Laptop,30000,10,2025-06-08,Alexandria
+1005,iPad Air,Tablet,18000,21,2025-06-08,Giza
+1006,HP Pavilion,Laptop,22000,21,2025-06-08,Cairo
+1007,Xiaomi Redmi Note 11,Mobile,12000,6,2025-06-08,Cairo
+1008,Microsoft Surface,Tablet,28000,5,2025-06-08,Alexandria
+1001,iPhone 13,Mobile,25000,5,2025-06-15,Giza
+1002,Dell XPS 15,Laptop,35000,19,2025-06-15,Alexandria
+1003,Samsung A52,Mobile,15000,17,2025-06-15,Cairo
+1004,Lenovo Legion 5,Laptop,30000,12,2025-06-15,Cairo
+1005,iPad Air,Tablet,18000,25,2025-06-15,Giza
+1006,HP Pavilion,Laptop,22000,18,2025-06-15,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,11,2025-06-15,Cairo
+1008,Microsoft Surface,Tablet,28000,1,2025-06-15,Cairo
+1001,iPhone 13,Mobile,25000,30,2025-06-22,Cairo
+1002,Dell XPS 15,Laptop,35000,4,2025-06-22,Alexandria
+1003,Samsung A52,Mobile,15000,21,2025-06-22,Alexandria
+1004,Lenovo Legion 5,Laptop,30000,2,2025-06-22,Giza
+1005,iPad Air,Tablet,18000,11,2025-06-22,Alexandria
+1006,HP Pavilion,Laptop,22000,15,2025-06-22,Giza
+1007,Xiaomi Redmi Note 11,Mobile,12000,27,2025-06-22,Giza
+1008,Microsoft Surface,Tablet,28000,14,2025-06-22,Alexandria
+1001,iPhone 13,Mobile,25000,3,2025-06-29,Cairo
+1002,Dell XPS 15,Laptop,35000,30,2025-06-29,Alexandria
+1003,Samsung A52,Mobile,15000,20,2025-06-29,Cairo
+1004,Lenovo Legion 5,Laptop,30000,2,2025-06-29,Cairo
+1005,iPad Air,Tablet,18000,18,2025-06-29,Alexandria
+1006,HP Pavilion,Laptop,22000,26,2025-06-29,Alexandria
+1007,Xiaomi Redmi Note 11,Mobile,12000,16,2025-06-29,Giza
+1008,Microsoft Surface,Tablet,28000,12,2025-06-29,Cairo
