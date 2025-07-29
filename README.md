@@ -1,10 +1,10 @@
-# 📊 Electronics Sales Forecasting and Analysis
+#  Electronics Sales Forecasting and Analysis
 
 This project analyzes and forecasts sales for an electronics store using **dummy data**. It performs exploratory data analysis (EDA), identifies key factors affecting sales, and builds a machine learning model (XGBoost) to predict future sales for each product and branch.
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python
 - pandas, matplotlib, seaborn
@@ -15,7 +15,7 @@ This project analyzes and forecasts sales for an electronics store using **dummy
 
 ---
 
-## 📁 Project Overview
+##  Project Overview
 
 ### 1. `load_prepare_data(path)`
 - Loads CSV data and parses the `Date` column.
@@ -89,7 +89,7 @@ This project analyzes and forecasts sales for an electronics store using **dummy
 
 ---
 
-## 📈 Example Use Case
+##  Example Use Case
 
 With this pipeline, you can:
 - Understand your best-selling products, branches, and categories.
@@ -99,13 +99,13 @@ With this pipeline, you can:
 
 ---
 
-## 📂 Dataset Note
+##  Dataset Note
 
 This project uses **dummy sales data** for demonstration purposes. Replace it with your real store data (following the same structure) to make it production-ready.
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 ```bash
 # Install required libraries
@@ -117,7 +117,7 @@ python your_script.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Add seasonality decomposition using Prophet or statsmodels.
 - Visualize data using a heatmap (e.g., sales per weekday/month).
@@ -125,7 +125,7 @@ python your_script.py
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed by blal shaheen.  
 This is a personal project to practice machine learning on retail data.
